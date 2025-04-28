@@ -1,5 +1,4 @@
-# i'm god
-# 2025/4/28 15:02
+# SCCD-IS
 from PIL import Image
 import numpy as np
 import os
